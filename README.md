@@ -71,7 +71,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) - Tariq Rashid
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-##Notable Literature##
+## Notable Literature ##
 Pending...
 
 
