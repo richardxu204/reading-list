@@ -57,7 +57,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [ ] [Programming Pearls (2nd edition)](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - Jon Bentley
 
 ### Blockchain ###
-- [x] [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Adrew Miller, Steven Goldfeder
+- [x] [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder
 
 ### General & SciFi ### 
 
