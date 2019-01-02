@@ -1,9 +1,10 @@
 # Reading List #
 Hey there, welcome to my reading list.
 
-All books listed are ones that I have read, am reading, or plan to read in the short-to-medium term. I made this as part of my 2019 New Years Resolutions to try and keep myself accountable (we'll see how that goes haha). Additionally, most books listed are kept digitally in my own online library.
+All books listed are ones that I have read, am reading, or plan to read in the short-to-medium term. I made this as part of my 2019 New Years Resolutions to try and keep myself accountable (we'll see how that goes haha). Additionally, most books listed are kept digitally in my own online library which is not listed in full here, but I'm open to reccommendations!
 
 *Not a comprehensive list.*
+
 
 
 ## Autobiographies ##
@@ -24,7 +25,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 ### Entrepreneurship ###
 - [ ] [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190) - W. Chan Kim, Renee Mauborgne
 - [x] [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.com/Innovators-Dilemma-Technologies-Cause-Great/dp/1565114159) - Clayton M. Christensen
-- [x] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
+- [x] [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
 - [x] [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Peter Thiel
 
 ### Investments/Portfolio Management ###
@@ -70,3 +71,8 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) - Tariq Rashid
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
+##Notable Literature##
+Pending...
+
+
+*More to come...*
