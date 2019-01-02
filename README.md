@@ -35,7 +35,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 ### Investment Banking ###
 - [ ] [Investment Banking: Valuation, Leveraged Buyouts, and Mergers and Acquisitions](https://www.amazon.com/Investment-Banking-Valuation-Leveraged-Acquisitions/dp/1118656210) - Joshua Rosenbaum, Joshua Pearl
 
-### Self-Help and Personal Development ###
+### Self-Help & Personal Development ###
 - [x] [Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669) - Malcolm Gladwell
 - [x] [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Kerry Patterson
 - [ ] [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374) - Malcolm Gladwell
@@ -46,6 +46,9 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [ ] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S) - Mark Manson
 - [x] [The Tipping Point: How Little Things Can Make a Big Difference](https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624) - Malcolm Gladwell
 
+### Strategy ###
+- [x] [Lateral Thinking: Creativity Step by Step](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252) - Edward De Bono
+- [x] [Conceptual Blockbusting: A Guide to Better Ideas](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370) - James L. Adams
 
 ## Computer Science ##
 
@@ -56,6 +59,14 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 ### Blockchain ###
 - [x] [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Adrew Miller, Steven Goldfeder
 
+### General & SciFi ### 
+
+- [x] [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) - Max Tegmark
+- [ ] [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376) - James Barrat
+- [x] [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) - Nick Bostrom
+
+
 ### Machine Learning & Related ###
 - [x] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) - Tariq Rashid
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
