@@ -28,6 +28,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Peter Thiel
 
 ### Investments/Portfolio Management ###
+- [x] [The Great Reflation: How Investors Can Profit From the New World of Money](https://www.amazon.com/Great-Reflation-Investors-Profit-World/dp/0470538775) - J. Anothony Boeckh
 - [ ] [The Intelligent Investor: The Definitive Book on Value Investing _revised edition_](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) - Benjamin Graham
 - [ ] [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101) - John C. Bogle
 
@@ -39,7 +40,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Kerry Patterson
 - [ ] [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374) - Malcolm Gladwell
 - [x] [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
-- [x] [Mastery:The Keys to Success and Long-Term Fulfillment](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560) - George Leonard
+- [x] [Mastery: The Keys to Success and Long-Term Fulfillment](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560) - George Leonard
 - [x] [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930) - Malcolm Gladwell
 - [x] [Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610) - Robert T. Kiyosaki
 - [ ] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S) - Mark Manson
@@ -50,7 +51,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 
 ### Algorithms ###
 - [ ] [Introduction to Algorithms (3rd edition)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-- [ ] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - Jon Bentley
+- [ ] [Programming Pearls (2nd edition)](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - Jon Bentley
 
 ### Blockchain ###
 - [x] [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Adrew Miller, Steven Goldfeder
