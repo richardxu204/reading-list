@@ -5,6 +5,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 
 _Not necessarily a comprehensive list._
 
+
 ##Autobiographies##
 ---------------
 - [x] [How to Win at the Sport of Business: If I Can Do It, You Can Do It](https://www.amazon.com/How-Win-Sport-Business-Can-ebook/dp/B006AX6ONI) - Mark Cuban
@@ -12,7 +13,8 @@ _Not necessarily a comprehensive list._
 
 
 ## Business ##
----------------
+
+
 ###Consulting###
 ---------------
 - [x] [Case In Point: Complete Case Interview Preparation](https://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0971015880) - Marc P. Cosentino
@@ -51,7 +53,7 @@ _Not necessarily a comprehensive list._
 
 
 ## Computer Science ##
----------------
+
 ###Algorithms###
 ---------------
 - [ ] [Introduction to Algorithms (3rd edition)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
