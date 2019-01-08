@@ -72,7 +72,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 ## Notable Literature ##
-Pending...
+- [ ] [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.amazon.com/Colorless-Tsukuru-Tazaki-Years-Pilgrimage/dp/0804170126) - Haruki Murakami
 
 
 *More books to come...*
