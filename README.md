@@ -19,7 +19,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Case In Point: Complete Case Interview Preparation](https://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0971015880) - Marc P. Cosentino
 
 ### Economics ###
-- [ ] [Capital in the 21st Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
+- [ ] [Capital in the 21st Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850) - Thomas Piketty
 - [ ] [Liar's Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X) - Michael Lewis
 - [ ] [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827) - Michael Lewis
 
