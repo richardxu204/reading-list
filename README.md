@@ -19,6 +19,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Case In Point: Complete Case Interview Preparation](https://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0971015880) - Marc P. Cosentino
 
 ### Economics ###
+- [ ] [Capital in the 21st Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 - [ ] [Liar's Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X) - Michael Lewis
 - [ ] [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827) - Michael Lewis
 
@@ -72,8 +73,9 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 ## Notable Literature ##
-- [x] [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.amazon.com/Colorless-Tsukuru-Tazaki-Years-Pilgrimage/dp/0804170126) - Haruki Murakami
 - [ ] [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) - Jordan B. Peterson
+- [x] [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.amazon.com/Colorless-Tsukuru-Tazaki-Years-Pilgrimage/dp/0804170126) - Haruki Murakami
+
 
 
 *More books to come...*
