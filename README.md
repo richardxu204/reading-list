@@ -48,9 +48,10 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [ ] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S) - Mark Manson
 - [x] [The Tipping Point: How Little Things Can Make a Big Difference](https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624) - Malcolm Gladwell
 
-### Strategy ###
-- [x] [Lateral Thinking: Creativity Step by Step](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252) - Edward De Bono
+### Strategy & Management ###
 - [x] [Conceptual Blockbusting: A Guide to Better Ideas](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370) - James L. Adams
+- [x] [Lateral Thinking: Creativity Step by Step](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252) - Edward De Bono
+- [ ] [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) - Ray Dalio
 
 ## Computer Science ##
 
