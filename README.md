@@ -20,6 +20,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 
 ### Economics ###
 - [ ] [Capital in the 21st Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850) - Thomas Piketty
+- [ ] [Capitalism and Freedom](https://www.amazon.com/Capitalism-Freedom-Anniversary-Milton-Friedman/dp/0226264211) - Milton Friedman
 - [ ] [Liar's Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X) - Michael Lewis
 - [ ] [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827) - Michael Lewis
 
