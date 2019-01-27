@@ -64,7 +64,6 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder
 
 ### General & SciFi ### 
-
 - [x] [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) - Max Tegmark
 - [ ] [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376) - James Barrat
 - [x] [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) - Nick Bostrom
@@ -73,6 +72,10 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 ### Machine Learning & Related ###
 - [x] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) - Tariq Rashid
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Springer-Statistics-ebook/dp/B00475AS2E/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+## Philosophy & Policy ##
+- [ ] [The Fifth Risk](https://www.amazon.com/Fifth-Risk-Michael-Lewis/dp/1324002646) - Michael Lewis
+
 
 ## Notable Literature ##
 - [ ] [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) - Jordan B. Peterson
