@@ -42,6 +42,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 - [x] [Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669) - Malcolm Gladwell
 - [x] [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Kerry Patterson
 - [ ] [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374) - Malcolm Gladwell
+- [ ] [Grit: The Power of Passion and Perseverance](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 - [x] [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
 - [x] [Mastery: The Keys to Success and Long-Term Fulfillment](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560) - George Leonard
 - [x] [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930) - Malcolm Gladwell
