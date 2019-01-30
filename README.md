@@ -81,6 +81,7 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 ## Notable Literature ##
 - [ ] [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) - Jordan B. Peterson
 - [x] [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.amazon.com/Colorless-Tsukuru-Tazaki-Years-Pilgrimage/dp/0804170126) - Haruki Murakami
+- [x] [Norwegian Wood](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004) Haruki Murakami
 
 
 
