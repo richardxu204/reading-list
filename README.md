@@ -7,8 +7,9 @@ All books listed are ones that I have read, am reading, or plan to read in the s
 
 
 
-## Autobiographies ##
+## Autobiographical ##
 - [x] [How to Win at the Sport of Business: If I Can Do It, You Can Do It](https://www.amazon.com/How-Win-Sport-Business-Can-ebook/dp/B006AX6ONI) - Mark Cuban
+- [x] [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2) - Jesse Itzler
 - [x] [The Art of Learning: An Inner Journey to Optimal Performance](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465) - Josh Waitzkin
 
 
