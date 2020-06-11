@@ -1,7 +1,7 @@
 # Reading List #
 Hey there, welcome to my reading list.
 
-All books listed are ones that I have read, am reading, or plan to read in the short-to-medium term. I made this as part of my 2019 New Years Resolutions to try and keep myself accountable (we'll see how that goes haha). Additionally, most books listed are kept digitally in my own online library which is not listed in full here, but I'm open to reccommendations!
+All books listed are ones that I have read, am reading, or plan to read in the short-to-medium term. I made this as part of my New Years Resolutions to try and keep myself accountable (we'll see how that goes haha). Additionally, most books listed are kept digitally in my own online library which is not listed in full here, but I'm open to reccommendations!
 
 *Not a comprehensive list.*
 
